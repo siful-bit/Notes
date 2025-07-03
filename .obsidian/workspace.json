@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1628281fb2c1f5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "80205f5bd0d9814c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c65fad103658ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Values.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Values"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f686ae107ef243fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc14c98f4a9103d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a8e9390b60529f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a67cc6948bbd8ec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#basic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1992f02453d1fd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "60a63e6e86c6341e",
+    "type": "split",
+    "children": [
+      {
+        "id": "57055af18e656ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a22b2d0af3af549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/Values.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Values"
+            }
+          },
+          {
+            "id": "66534c36c627859d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/Values.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Values"
+            }
+          },
+          {
+            "id": "2e99511af148943d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8eb8cd0fe24bd8d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Javascript/Values.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Values"
+            }
+          },
+          {
+            "id": "6a816a166410544e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statements.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Statements"
+            }
+          },
+          {
+            "id": "f16e3114beabe91c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6a8e9390b60529f",
+  "lastOpenFiles": [
+    "Javascript/Literals.md",
+    "Javascript/Values.md",
+    "Javascript/Comments.md",
+    "Javascript/Statements.md",
+    "Javascript/Introduction.md",
+    "Javascript.md",
+    "Javascript/Operators.md",
+    "Javascript",
+    "assets/icons8-javascript-240.png",
+    "assets/icons8-css-480.png",
+    "assets/icons8-html-480.png",
+    "assets/659715ef78dd04cdbe11a27b35ff7c49 1.png",
+    "assets/659715ef78dd04cdbe11a27b35ff7c49.png",
+    "assets/Pasted image 20250702103142.png",
+    "assets/icons8-html-480 1.png",
+    "assets/Pasted image 20250702080105.png",
+    "assets/Pasted image 20250702075910.png",
+    "assets/Javascript.png",
+    "assets"
+  ]
+}

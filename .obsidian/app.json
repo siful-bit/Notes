@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "assets",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "livePreview": false
+}

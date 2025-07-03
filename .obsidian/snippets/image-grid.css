@@ -1,0 +1,11 @@
+.img-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-grid img {
+    flex: 1 1 200px;
+    /* Adjust width as needed */
+    margin: 5px;
+    /* Add spacing between images */
+}
