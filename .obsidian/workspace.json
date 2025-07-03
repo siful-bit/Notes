@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80205f5bd0d9814c",
+        "id": "6730994937362aad",
         "type": "tabs",
         "children": [
           {
-            "id": "9c65fad103658ca7",
+            "id": "6a1e70a6a0dd0827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Values.md",
+                "file": "Javascript/Variables.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Values"
+              "title": "Variables"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Values.md"
+                "file": "Javascript/Variables.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Values"
+              "title": "File properties for Variables"
             }
           },
           {
@@ -194,14 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6a8e9390b60529f",
+  "active": "6a1e70a6a0dd0827",
   "lastOpenFiles": [
-    "Javascript/Literals.md",
     "Javascript/Values.md",
+    "Javascript/Variables.md",
+    "Javascript.md",
+    "Javascript/Literals.md",
     "Javascript/Comments.md",
     "Javascript/Statements.md",
     "Javascript/Introduction.md",
-    "Javascript.md",
     "Javascript/Operators.md",
     "Javascript",
     "assets/icons8-javascript-240.png",

@@ -9,4 +9,5 @@ aliases:
 - [[Introduction| Introduction]]
 - [[Statements]]
 	- [[Values]]
+		- [[Variables]]
 	- [[Comments]]

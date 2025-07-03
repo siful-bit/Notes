@@ -86,7 +86,7 @@ There are 8 main types of literals in JS.
 	>undefined
 	>```
 
-#### Javascript Variables
+#### [[Variables|Javascript Variables]]
 Just like math, **variables** are used to **store** data values in also programming languages.
 > JavaScript uses the keywords `var`, `let` and `const` to **declare** variables.
 
