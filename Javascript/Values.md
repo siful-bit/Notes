@@ -16,75 +16,31 @@ The JavaScript syntax defines two types of values:
 1. Fixed values
 2. Variable values
 
-> [!NOTE]
-> Fixed values are called **Literals**.
-> Variable values are called **Variables**.
+#### Javascript Fixed Values
+There are 10 types of fixed values
 
-#### Javascript Literals
-There are 8 main types of literals in JS.
-1. Numeric
-	>Represent integer or floating-point numbers:
-	
-	>[!Example] 
-	>```js
-	>10.50  // with decimal
-	>1001 // without decimal
-	>```
+| SL  | Type      | Example          | Has Literals |
+| --- | --------- | ---------------- | :----------: |
+| 1   | Number    | `123`            |      ✔       |
+| 2   | Bigint    | `100n`           |      ✔       |
+| 3   | String    | `'Sanin'`        |      ✔       |
+| 4   | Boolean   | `true`           |      ✔       |
+| 5   | Null      | `null`           |      ✔       |
+| 6   | Undefined | 'undefined'      |      ✔       |
+| 7   | Object    | `{name:"sanin"}` |      ✔       |
+| 8   | Array     | `[1, 'one']`     |      ✔       |
+| 9   | RegExp    | `/sanin/g`       |      ✔       |
+| 10  | Symbol    | `Symbol('id')`   |      ❌       |
 
-2. String
-	>Represent sequences of character
-	
-	>[!Example]
-	>```js
-	>'Sanin' // enclosed with (') single quotes
-	>"Sakin" // enclosed with (") double quotes
-	>`Tahera` // enclosed with (`) template literals
-	>```
-3. Boolean
-	>Represent only truth or false
-	
-	>[!Example]
-	>```js
-	>true    false
-	>```
-4. Array
-	>Represent ordered collections of values and enclosed in square brackets (`[]`)
-	
-	>[!Example]
-	>```js
-	>[ 1, 2.3, 'one', "two", true ]
-	>```
-5. Object
-	>Represent collections of key-value pairs and enclosed in curly braces (`{}`)
-	
-	>[!Example]
-	>```js
-	>{ name: 'Alice', age: 30 }
-	>```
-6. Regular Expression #hard #important
-	>Represent patterns used for matching character combinations in strings and enclosed between forward slashes (`/pattern/flags`)
-	
-	>[!Example]
-	>```js
-	>/sanin/g // it will select 'sanin' globally
-	>```
-	
-	>[!Tip]
-	> Regular Expression is a vast topic to discuss. But, to understand javascript and execute operation with string, it's important.
-7. Null
-	>Represents the intentional absence of any object value
-	
-	>[!Example]
-	>```js
-	>null
-	>```
-8. Undefined
-	>Represents a variable that has been declared but not yet assigned a value, or a non-existent property
-	
-	>[!Example]
-	>```js
-	>undefined
-	>```
+
+> [!Note] Literals
+> In Javascript some some special fixed values which are declared directly. These are called literals. Literal can't be a function, expression and a class or symbol
+> ```js
+> let x = 5 // Numeric Literal
+> let y = Number(5) // ❌ Not a Literal
+> ```
+
+---
 
 #### [[Variables|Javascript Variables]]
 Just like math, **variables** are used to **store** data values in also programming languages.

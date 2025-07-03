@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables.md",
+                "file": "Javascript/Values.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Values"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Variables.md"
+                "file": "Javascript/Values.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Variables"
+              "title": "File properties for Values"
             }
           },
           {
@@ -196,14 +196,15 @@
   },
   "active": "6a1e70a6a0dd0827",
   "lastOpenFiles": [
+    "Javascript/Introduction.md",
+    "Javascript/Statements.md",
     "Javascript/Values.md",
     "Javascript/Variables.md",
+    "Javascript/Operators.md",
+    "Untitled.canvas",
     "Javascript.md",
     "Javascript/Literals.md",
     "Javascript/Comments.md",
-    "Javascript/Statements.md",
-    "Javascript/Introduction.md",
-    "Javascript/Operators.md",
     "Javascript",
     "assets/icons8-javascript-240.png",
     "assets/icons8-css-480.png",
