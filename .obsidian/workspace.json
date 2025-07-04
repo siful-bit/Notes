@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6730994937362aad",
+        "id": "8053a0aaf48af724",
         "type": "tabs",
         "children": [
           {
-            "id": "6a1e70a6a0dd0827",
+            "id": "e0a46df58deb7053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Values.md",
-                "mode": "preview",
+                "file": "Javascript/Operators.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Values"
+              "title": "Operators"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Javascript/Values.md"
+                "file": "Javascript/Operators.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Values"
+              "title": "File properties for Operators"
             }
           },
           {
@@ -194,15 +194,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a1e70a6a0dd0827",
+  "active": "e0a46df58deb7053",
   "lastOpenFiles": [
-    "Javascript/Introduction.md",
-    "Javascript/Statements.md",
     "Javascript/Values.md",
+    "Javascript.md",
+    "SQL.md",
+    "SQL/Content.md",
+    "SQL/SELECT.md",
+    "SQL/Introduction.md",
+    "assets/database-record-and-field.png",
+    "assets/database-record-and-field.png.crdownload",
+    "SQL/Commands.md",
     "Javascript/Variables.md",
+    "Javascript/Introduction.md",
+    "assets/Pasted image 20250703201818.png",
+    "SQL",
+    "Javascript/Statements.md",
     "Javascript/Operators.md",
     "Untitled.canvas",
-    "Javascript.md",
     "Javascript/Literals.md",
     "Javascript/Comments.md",
     "Javascript",
@@ -214,8 +223,6 @@
     "assets/Pasted image 20250702103142.png",
     "assets/icons8-html-480 1.png",
     "assets/Pasted image 20250702080105.png",
-    "assets/Pasted image 20250702075910.png",
-    "assets/Javascript.png",
     "assets"
   ]
 }

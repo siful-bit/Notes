@@ -7,7 +7,6 @@ tags:
 aliases:
   - Fixed Values
   - Variable Values
-  - Literals
 Created At: 2025-07-02T17:47:00
 ---
 

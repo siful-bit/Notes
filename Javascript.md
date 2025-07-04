@@ -6,8 +6,9 @@ tags:
 aliases:
   - Javascript Index
 ---
-- [[Introduction| Introduction]]
+- [[Javascript/Introduction|Introduction]]
 - [[Statements]]
 	- [[Values]]
+		- Fixed
 		- [[Variables]]
 	- [[Comments]]
