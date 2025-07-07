@@ -12,3 +12,4 @@ aliases:
 		- Fixed
 		- [[Variables]]
 	- [[Comments]]
+	- [[Function]]
